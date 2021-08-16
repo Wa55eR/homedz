@@ -1,0 +1,23 @@
+.div_1 a{
+    margin: 0 auto;
+    color: cornsilk;
+    background-color: darkcyan;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 32px;
+}
+.okno1:hover{
+    box-shadow: 2px 2px 2px  #808080;
+    background-color: black;
+    margin: 0 auto;
+}
+.okno2:hover{
+    box-shadow: 2px 2px 2px  #808080;
+    background-color: black;
+    margin: 0 auto;
+}
+.okno3:hover{
+    box-shadow: 2px 2px 2px  #808080;
+    background-color: black;
+    margin: 0 auto;
+}
